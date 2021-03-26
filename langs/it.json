@@ -1,13 +1,14 @@
 {
   "general": {
-    "modules": "Moduli",
-    "module": "Modulo"
+    "modules": "Plugin",
+    "module": "Plugin"
   },
 
   "settings": {
     "itemNames": {
-      "moduleStore": "Negozio Moduli",
-      "goosemodModules": "Moduli GooseMod"
+      "plugins": "Plugin",
+      "themes": "Temi",
+      "goosemodModules": "Plugin GooseMod"
     }
   },
 
@@ -25,7 +26,7 @@
     },
 
     "repos": {
-      "repos": "Repos",
+      "repos": "Repo",
       "addRepo": "Aggiungi Repo"
     },
 
